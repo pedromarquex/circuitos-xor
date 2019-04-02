@@ -1,0 +1,9 @@
+Analysis & Synthesis Status : Successful - Thu Apr 05 16:43:19 2018
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : xor_nand_gate
+Top-level Entity Name : xor_nand_gate
+Family : MAX V
+Total logic elements : 1
+Total pins : 3
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
